@@ -16,6 +16,7 @@
     { "id": 2, "login": "usuario02", "email": "usuario02@email.com", "admin": true },
     { "id": 3, "login": "usuario03", "email": "usuario03@email.com", "admin": true },
     { "id": 4, "login": "usuario04", "email": "usuario04@email.com", "admin": false },
-    { "id": 5, "login": "usuario05", "email": "usuario05@email.com", "admin": false }
+    { "id": 5, "login": "usuario05", "email": "usuario05@email.com", "admin": false },
+    { "id": 6, "login": "usuario06", "email": "usuario06@email.com", "admin": true }
   ]
 }
