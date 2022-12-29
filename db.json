@@ -1,3 +1,4 @@
+
 {
   "usuarios": [
     { "id": 1, "login": "usuario01", "email": "usuario01@email.com", "admin": true },
@@ -7,7 +8,10 @@
     { "id": 5, "login": "usuario05", "email": "usuario05@email.com", "admin": false }
   ],
   "cursos": [
-    {"id":1,"nome":"111","possuiEstagioObrigatorio":true,"cargaHorariaMinimaEstagioObrigatorio":1,"periodoMinimoEstagioObrigatorio":1,"possuiEstagioNaoObrigatorio":true,"cargaHorariaMinimaAtividadesComplementares":1,"idCoordenador":1,"idSupervisorEstagio":3,"idSupervisorAtividadesComplementares":2}
+    { "id": 1, "nome": "Curso 1" },
+    { "id": 2, "nome": "Curso 2" },
+    { "id": 3, "nome": "Curso 3" },
+    { "id": 4, "nome": "Curso 4" }
   ],
   "professores": [
     { "id": 1, "nome": "Professor 1", "email": "professor1@email.com", "celular": "1111-1111" },
@@ -22,12 +26,5 @@
     { "id": 3, "matricula": 3, "nome": "Aluno 3", "email": "aluno3@email.com", "celular": "3333-3333" },
     { "id": 4, "matricula": 4, "nome": "Aluno 4", "email": "aluno4@email.com", "celular": "4444-4444" },
     { "id": 5, "matricula": 5, "nome": "Aluno 5", "email": "aluno5@email.com", "celular": "5555-5555" }
-  ],
-  "estagios": [
-    { "id": 1, "aluno": "Aluno 1", "concedente": "Concedente 1", "tipoEstagio": 1, "dataInicio": "11/11/1111", "dataFim": "11/11/1111" },
-    { "id": 2, "aluno": "Aluno 2", "concedente": "Concedente 2", "tipoEstagio": 1, "dataInicio": "11/11/1111", "dataFim": "11/11/1111" },
-    { "id": 3, "aluno": "Aluno 3", "concedente": "Concedente 3", "tipoEstagio": 1, "dataInicio": "11/11/1111", "dataFim": "11/11/1111" },
-    { "id": 4, "aluno": "Aluno 4", "concedente": "Concedente 4", "tipoEstagio": 1, "dataInicio": "11/11/1111", "dataFim": "11/11/1111" },
-    { "id": 5, "aluno": "Aluno 5", "concedente": "Concedente 5", "tipoEstagio": 1, "dataInicio": "11/11/1111", "dataFim": "11/11/1111" }
   ]
 }
