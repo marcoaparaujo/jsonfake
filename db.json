@@ -7,10 +7,7 @@
     { "id": 5, "login": "usuario05", "email": "usuario05@email.com", "admin": false }
   ],
   "cursos": [
-    { "id": 1, "nome": "Curso 1" },
-    { "id": 2, "nome": "Curso 2" },
-    { "id": 3, "nome": "Curso 3" },
-    { "id": 4, "nome": "Curso 4" }
+    {"id":1,"nome":"111","possuiEstagioObrigatorio":true,"cargaHorariaMinimaEstagioObrigatorio":1,"periodoMinimoEstagioObrigatorio":1,"possuiEstagioNaoObrigatorio":true,"cargaHorariaMinimaAtividadesComplementares":1,"idCoordenador":1,"idSupervisorEstagio":3,"idSupervisorAtividadesComplementares":2}
   ],
   "professores": [
     { "id": 1, "nome": "Professor 1", "email": "professor1@email.com", "celular": "1111-1111" },
